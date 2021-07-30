@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+# Here are my favorite thing
+- Money
+- Power
+- Privacy 
